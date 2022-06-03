@@ -4,4 +4,4 @@
 
 > I am currently a third-year PhD student in the [MMLab@NTU](https://www.mmlab-ntu.com/). 
 
-> My research interests are computer vision, ML/DL and their applications in different applications such as object detection, instance segmentation, etc.
+> My research interests are computer vision, ML/DL and their applications such as object detection, instance segmentation, etc.
