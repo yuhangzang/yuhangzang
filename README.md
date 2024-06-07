@@ -2,6 +2,6 @@
 
 > Hi, I'm **Yuhang Zang**.
 
-> I am currently a third-year PhD student in the [MMLab@NTU](https://www.mmlab-ntu.com/). 
+> I am currently a researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/). 
 
-> My research interests are computer vision, ML/DL and their applications such as object detection, instance segmentation, etc.
+> My current interests lie in the area of computer vision and large vision-language models.
