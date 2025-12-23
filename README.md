@@ -49,7 +49,7 @@
 | Year | Achievement |
 |:----:|:------------|
 | 2025 | #5 in [Most Influential ArXiv CV Papers](https://resources.paperdigest.org/2025/09/most-influential-arxiv-computer-vision-and-pattern-recognition-papers-2025-09-version/) |
-| 2025 | 2rd Place, [LSVOS challenge](https://lsvos.github.io/), Complex Video Object Segmentation Track, ICCV 2025|
+| 2025 | 2nd Place, [LSVOS challenge](https://lsvos.github.io/), Complex Video Object Segmentation Track, ICCV 2025|
 | 2024 | #10 in [Most Influential ArXiv CV Papers](https://resources.paperdigest.org/2024/10/most-influential-arxiv-computer-vision-and-pattern-recognition-papers-2024-10/) |
 | 2024 | #9 in [Most Influential NeurIPS Papers](https://www.paperdigest.org/2025/03/most-influential-nips-papers-2025-03-version/) |
 | 2020 | 3rd Place, [LVIS Challenge](https://www.lvisdataset.org/challenge_2020), ECCV 2020|
