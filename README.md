@@ -4,6 +4,8 @@
 
 **Researcher @ [Shanghai AI Laboratory](https://www.shlab.org.cn/)**
 
+*"Exploring the frontiers of multimodal intelligence"*
+
 [![Homepage](https://img.shields.io/badge/Homepage-yuhangzang.github.io-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://yuhangzang.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hW23VKIAAAAJ)
 [![Email](https://img.shields.io/badge/Email-zang0012%40ntu.edu.sg-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zang0012@ntu.edu.sg)
@@ -54,13 +56,3 @@
 | 2024 | #9 in [Most Influential NeurIPS Papers](https://www.paperdigest.org/2025/03/most-influential-nips-papers-2025-03-version/) |
 | 2020 | 3rd Place, [LVIS Challenge](https://www.lvisdataset.org/challenge_2020), ECCV 2020|
 | 2019 | 1st Place, [Google Open Images Challenge](https://www.kaggle.com/c/open-images-2019-object-detection/leaderboard), Object Detection Track, ICCV 2019 |
-
----
-
-<div align="center">
-
-*"Exploring the frontiers of multimodal intelligence"*
-
-<img src="https://github-readme-stats.vercel.app/api?username=yuhangzang&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=374151" width="450"/>
-
-</div>
